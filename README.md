@@ -1,16 +1,28 @@
-### Hi there 👋
 
-<!--
-**Kamrrann/Kamrrann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Kamran Ali
+I am a Remote sensing, Geographic Information Systems(GIS), Machine and Deep learning enthusiast. My research and career interests lie at the nexus between Remote sensing, GIS and Artificial Intelligence. I like to work with AI applications for satellite imagery. I am actively engaged in leveraging machine and deep learning models for the processing of remote-sensing data.
 
-Here are some ideas to get you started:
+Email: kamrrannali@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![orcid](https://img.shields.io/badge/ORCID-0000--0002--7451--1562-brightgreen?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7451-1562)
+
+
+
+
+
+
+
+
+
+
+
+## Research Interests
+Remote sensing and pattern recognition
+
+Artificial intelligence and machine learning
+
+Hyperspectral and synthetic aperture radar imagery
+
+Vegetation dynamics and land cover mapping
+
+Spatial data analysis
